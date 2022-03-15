@@ -1,5 +1,7 @@
 # SHA-256-Hash
 
+Contributors: Saad Islam and Inam Ul Haq
+
 ## Terminal Version
 Run sha256.m to take the hash of the file 'inputfile.txt' using the following command in MATLAB:
 
