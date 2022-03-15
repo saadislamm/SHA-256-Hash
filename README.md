@@ -2,7 +2,8 @@
 
 Contributors: Saad Islam and Inam Ul Haq
 
-## Terminal Version
+## Terminal Version[^1]
+
 Run sha256.m to take the hash of the file 'inputfile.txt' using the following command in MATLAB:
 
 ```
@@ -20,7 +21,7 @@ ans =
 
 You can choose any file of your choice.
 
-## Graphical Version
+## Graphical Version[^1]
 
 You can also choose the graphical version "sha256gui.m" to take the hash of any file using the following easy to use interface:
 
@@ -33,3 +34,5 @@ https://csrc.nist.gov/csrc/media/publications/fips/180/3/archive/2008-10-31/docu
 http://csrc.nist.gov/groups/STM/cavp/documents/shs/SHAVS.pdf
 
 https://csrc.nist.rip/Projects/Cryptographic-Algorithm-Validation-Program/Validation/Validation-List/SHS
+
+[^1]: This code has been tested on MATLAB R2021b
