@@ -20,7 +20,9 @@ You can choose any file of your choice.
 
 ## Graphical Version
 
-<img src="gui.png" width="250px" height="auto">
+You can also choose the graphical version "sha256gui.m" to take the hash of any file using the following easy to use interface:
+
+<img src="gui.png" width="500px" height="auto">
 
 ## References
 
